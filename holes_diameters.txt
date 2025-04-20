@@ -1,0 +1,5 @@
+LED lens = 4.5mm (+ rear milling 6.5mm for RGB)
+USB front connector screw = 3mm
+2MS4T1B5M2RE (DMM switch) = 6.5mm
+3ETH9 (DMM buttons) = 7mm
+PEC11R-4115F-S18 (DMM encoder) = 7.1mm
